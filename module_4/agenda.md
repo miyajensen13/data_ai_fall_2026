@@ -5,7 +5,7 @@ Quick hellos and a look at tonight's plan.
 
 🤝 Networking Warm-Up (10 min)
 Pick **one** to share:
-- [ ] What's the last networking event you went to, or the next one you plan to attend?
+- [x] What's the last networking event you went to, or the next one you plan to attend?
 - [ ] Who's one person you met at a past networking event who became a meaningful connection?
 
 🎥 SQL Video Review
