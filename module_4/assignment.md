@@ -65,7 +65,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
    ```
 
 3. **How many children are supported through Tech Moms programs?** 1281
-   - [ ] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
+   - [x] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
    - Example SQL:
 
    ```
